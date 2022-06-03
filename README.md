@@ -14,6 +14,9 @@ Installing
 Usage
 =====
 
+![u1](https://user-images.githubusercontent.com/93522281/171869314-37e42cc2-ac7b-42ca-b58d-e43ac7a8a3b7.png)
+
+
 
 
     >>> from xitroo import Api
@@ -34,6 +37,13 @@ Usage
     1 - xitroo_email: Its the email generated from [Api.GenerateEmail(length=21, domain="random")]
     2 - Subject: its from what site you used the email on, Its the subject of the email received.
     3 - Timeout: How long to wait for the email to be received, The default is 30 secends it can be set to any amount of time 
+
+
+Example One
+=====
+
+
+![img4](https://user-images.githubusercontent.com/93522281/171868740-dce3ae71-1072-4a95-a555-e03592102eb7.png)
 
 
 
@@ -66,6 +76,9 @@ Example One
 
 Example Two
 =====
+
+![e2](https://user-images.githubusercontent.com/93522281/171869800-96c8f0eb-2693-49e7-bb3c-25099c2821ce.png)
+
 
     On this Example we are getting a link to verify
 
